@@ -1,4 +1,6 @@
 #include <stdio.h>
+//função que recebe um vetor de números reais e o número de elementos a considerar
+//Retorna o maior entre os n primeiros elementos do vetor
 
 float max(float v[], int n)
 {

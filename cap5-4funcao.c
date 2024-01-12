@@ -1,4 +1,5 @@
 #include <stdio.h>
+//Devolver o valor absoluto de x
 
 int abs(int x)
 {

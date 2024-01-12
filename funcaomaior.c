@@ -32,7 +32,7 @@ int main()
     }
 
     printf("\n-------------\n");
-    printf("Maior elemento: %f\n", maior(v, n));
+    printf("Maior elemento: %.2f\n", maior(v, n));
 
     return 0;
 }
