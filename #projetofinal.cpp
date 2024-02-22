@@ -26,7 +26,7 @@ int main()
         scanf("%d", &manual);
         if (manual == 1)
         {
-            wprintf(L"\n Ok, vamos iniciar nosso Jogo!\n"); // quem escolhe essa opção ja sabe previamente como funciona o jogo e ja parte para a ação
+            wprintf(L"\n Ok, Vamos iniciar nosso Jogo!\n"); // quem escolhe essa opção ja sabe previamente como funciona o jogo e ja parte para a ação
         }
         else if (manual == 2)
         {
