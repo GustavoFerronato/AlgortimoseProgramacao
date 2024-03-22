@@ -1,5 +1,6 @@
 #include <stdio.h>
 #define max 3
+//Função que traspõe a matrix com MAX por MAX elementos
 
 int trasp(int matriz[max][max])
 {
